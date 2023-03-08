@@ -1,0 +1,28 @@
+
+
+.carousel{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+}
+
+form {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 200;
+    height: 200px;
+    border: 1px solid gray;
+    transform: translate(-100px, -100px);
+    background-color: gray;
+}
+
+.btn {
+    background-color: FFF;
+}
+
+
+
+
+
